@@ -1,3 +1,3 @@
 # ProjetoFundamentosCG
 
-Repositório referente a "Lista 1" de exercícios.
+Repositório destinado aos projetos desenvolvidas da aula de "Fundamentos de programação".
