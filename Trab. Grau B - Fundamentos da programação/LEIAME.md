@@ -5,6 +5,7 @@ Feito por: Thiago Moraes Reichert
 1º - Baixe o repositório ou o copie
 2º - Abra o arquivo a respeito do Sistema ONG adote um gato
 3º Neste arquivo, rode o código em python no seu terminal
+
 ![image](https://github.com/ThiagoMoraesReichert/ProjetoFundamentosCG/assets/142424661/6395b3b5-b969-4835-a985-e89f8f9478a8)
 
 4º Escolha uma entre as 7 opções através do números que os representam
