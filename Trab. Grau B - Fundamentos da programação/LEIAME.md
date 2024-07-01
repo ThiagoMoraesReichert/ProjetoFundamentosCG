@@ -14,7 +14,7 @@ Feito por: Thiago Moraes Reichert
 
 ![image](https://github.com/ThiagoMoraesReichert/ProjetoFundamentosCG/assets/142424661/459408e1-d05d-4610-b530-c091f862ba80)
 
-#Importante:
+## Importante:
 - Quando for registrar um felino, irá aparecer uma serie de perguntas.
 - Nessas perguntas, terão perguntas de "Sim" ou "Não" (Ficará evidente quando rodar o programa)
 - Por favor, nessas perguntas, responda somente com "Sim" ou Não", com a primeira letra maiúscula como padrão.
