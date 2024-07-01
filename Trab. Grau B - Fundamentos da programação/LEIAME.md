@@ -18,6 +18,7 @@ Feito por: Thiago Moraes Reichert
 - Quando for registrar um felino, irá aparecer uma serie de perguntas.
 - Nessas perguntas, terão perguntas de "Sim" ou "Não" (Ficará evidente quando rodar o programa)
 - Por favor, nessas perguntas, responda somente com "Sim" ou Não", com a primeira letra maiúscula como padrão.
+
 Exemplo:
 
 ![image](https://github.com/ThiagoMoraesReichert/ProjetoFundamentosCG/assets/142424661/4c2478e8-3f41-4b8a-8ba1-9d83099f7c70)
